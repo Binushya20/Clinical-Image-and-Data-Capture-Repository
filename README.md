@@ -93,5 +93,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries, please reach out to me at [binushyaprakashe@gmail.com](mailto:email@example.com).
 
 ---
-
-This README provides a clear and structured overview of your project, making it easier for others to understand, install, and contribute to your project.
