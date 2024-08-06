@@ -1,4 +1,4 @@
-# Clinical Data and Image Repository
+# Clinical Image and Data Capture Repository
 
 ## Description
 This project aims to create a secure and scalable solution for recording and storing clinical data, including pressure, humidity, and temperature readings, along with images captured by an ESP32-CAM module. The data is logged into Google Sheets, and the captured images are uploaded to a Google Drive folder. This system leverages Arduino code to interface with sensors and the ESP32-CAM, providing a robust platform for clinical data management.
