@@ -1,7 +1,3 @@
-Here’s a README file tailored for your "Clinical Data and Image Repository" project:
-
----
-
 # Clinical Data and Image Repository
 
 ## Description
